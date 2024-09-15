@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ramesh Kumar Prajapati</h1>
-<h3 align="center">Aspiring Data Analyst & Business Analyst || SQL || DSA || Python || C || HTML||CSS</h3>
+<h3 align="center">Aspiring Data Analyst & Business Analyst || SQL || DSA || Python || C++ || HTML||CSS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alwaysramesh&label=Profile%20views&color=0e75b6&style=flat" alt="alwaysramesh" /> </p>
 
