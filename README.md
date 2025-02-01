@@ -2,6 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alwaysramesh&label=Profile%20Views&color=blue&style=plastic)
 
+<img align="right" alt="Coder GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 ## Aspiring Data Scientist || SQL || Python || Excel || C++ || HTML || CSS || B.Tech[CSE]
 
 I am currently pursuing my **Bachelor of Technology in Computer Science Engineering** from **Sagar Institute of Research & Technology**. I am also studying **Data Science at Cybrom Institute**. My passion for technology and data analysis drives me to learn new skills and explore innovative solutions. I have developed proficiency in **Microsoft Azure**, which I use to enhance my projects and assignments. I am eager to apply my knowledge and skills in real-world scenarios and contribute to the growth of organizations.
@@ -62,12 +64,6 @@ I am currently pursuing my **Bachelor of Technology in Computer Science Engineer
 - **The Power of Data: Unleashing Insights**
 - **Exploring the Depths of SQL**
 <!-- BLOG-POST-LIST:END -->
-
----
-
-## 💻 Computer Coder Man 🧑‍💻
-
-![Coder GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
