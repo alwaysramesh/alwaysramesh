@@ -1,23 +1,82 @@
-<h1 align="center">Hi 👋, I'm Ramesh Kumar Prajapati</h1>
-<h3 align="center">Aspiring Data Science || SQL || Python || Excel || C++ || HTML|| CSS || B.Tech[CSE]</h3>
+# Hi there, I'm Ramesh Kumar Prajapati! 👋
 
-- 🔭 I’m currently working on **Women Safty Analytics**
+![Profile Views](https://komarev.com/ghpvc/?username=alwaysramesh&label=Profile%20Views&color=blue&style=plastic)
 
-- 🌱 I’m currently learning **Excel, NumPy**
+## Aspiring Data Scientist || SQL || Python || Excel || C++ || HTML || CSS || B.Tech[CSE]
 
-- 📝 I regularly write articles on [https://www.youtube.com/@alwaysramesh21](https://www.youtube.com/@alwaysramesh21)
+I am currently pursuing my **Bachelor of Technology in Computer Science Engineering** from **Sagar Institute of Research & Technology**. I am also studying **Data Science at Cybrom Institute**. My passion for technology and data analysis drives me to learn new skills and explore innovative solutions. I have developed proficiency in **Microsoft Azure**, which I use to enhance my projects and assignments. I am eager to apply my knowledge and skills in real-world scenarios and contribute to the growth of organizations.
 
-- 💬 Ask me about **Data Science || SQL || Python || Excel || C++ || HTML|| CSS || B.Tech[CSE]**
+---
 
-- 📫 How to reach me **viprameshkumar8085@gmail.com**
+## 🚀 About Me
+- 🔭 I’m currently working on my **data science skills and projects**.
+- 🌱 I’m currently learning more about **Microsoft Azure** and **data analysis**.
+- 💬 Ask me about **data science, SQL, Python**, or anything related to **technology**.
+- ⚡ Fun fact: I love exploring **new technologies** and I'm a **constant learner!**
 
-- 📄 Know about my experiences [https://goresume.io/resume/share/dea1dc03-cf5c-4de3-aeb4-f0719d085b8c](https://goresume.io/resume/share/dea1dc03-cf5c-4de3-aeb4-f0719d085b8c)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ramesh kumar prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ramesh kumar prajapati" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@alwaysramesh21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@alwaysramesh21" height="30" width="40" /></a>
-</p>
+## 🛠 Skills & Technologies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
+---
+
+## 👨‍💻 Projects
+
+### 🔹 MySQL Database Management
+- A repository containing **scripts and queries** related to **MySQL database management**.
+- Showcases my skills in working with **databases**.
+
+### 🔹 Awesome GitHub Profile README
+- A **community-driven collection** of awesome GitHub profile READMEs.
+- Useful resource for developers looking to **create an impressive README**.
+
+---
+
+## 📊 GitHub Stats
+
+![Ramesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alwaysramesh&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alwaysramesh&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alwaysramesh&theme=radical)
+
+---
+
+## 🚀 Contribution Graph
+
+![Ramesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alwaysramesh&theme=radical)
+
+---
+
+## 📚 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- **Empowering My Azure Cloud Journey!**
+- **The Power of Data: Unleashing Insights**
+- **Exploring the Depths of SQL**
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 💻 Computer Coder Man 🧑‍💻
+
+![Coder GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+---
+
+## 📩 Contact Me
+
+- **📧 Email**: [alwaysramesh@gmail.com](mailto:alwaysramesh@gmail.com)
+- **💼 LinkedIn**: [Ramesh Kumar Prajapati](https://www.linkedin.com/in/your-link-here)
+- **🐙 GitHub**: [alwaysramesh](https://github.com/alwaysramesh)
+
+---
+
+> **Thank you for visiting my profile! I look forward to connecting with you! 🌟**
