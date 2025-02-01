@@ -32,10 +32,6 @@ I am currently pursuing my **Bachelor of Technology in Computer Science Engineer
 
 ## 👨‍💻 Projects
 
-### 🔹 Temperature Converter
-- A **web application** developed using **CSS, HTML, and JavaScript**.
-- Allows users to **convert temperatures** between **Celsius, Fahrenheit, and Kelvin**.
-
 ### 🔹 MySQL Database Management
 - A repository containing **scripts and queries** related to **MySQL database management**.
 - Showcases my skills in working with **databases**.
