@@ -1,12 +1,12 @@
-# Hi there, I'm Ramesh Kumar Prajapati! 👋
+# Hi Here, I'm Ramesh Kumar Prajapati! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alwaysramesh&label=Profile%20Views&color=blue&style=plastic)
 
 <img align="right" alt="Coder GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## Aspiring Data Scientist || SQL || Python || Excel || C++ || Power BI || Tableau || B.Tech[CSE]
+## Aspiring Data Scientist || SQL || Python || Excel || C++ || Power BI || Tableau || Microsoft Azure || B.Tech[CSE]
 
-I am currently pursuing my **Bachelor of Technology in Computer Science Engineering** from **Sagar Institute of Research & Technology**. I am also studying **Data Science at Cybrom Institute**. My passion for technology and data analysis drives me to learn new skills and explore innovative solutions. I have developed proficiency in **Microsoft Azure**, which I use to enhance my projects and assignments. I am eager to apply my knowledge and skills in real-world scenarios and contribute to the growth of organizations.
+I am final year pursuing my **Bachelor of Technology in Computer Science Engineering** from **Sagar Institute of Research & Technology**. I am also studying **Data Science at Cybrom Institute**. My passion for technology and data analysis drives me to learn new skills and explore innovative solutions. I have developed proficiency in **Microsoft Azure**, which I use to enhance my projects and assignments. I am eager to apply my knowledge and skills in real-world scenarios and contribute to the growth of organizations.
 
 ---
 
@@ -36,9 +36,23 @@ I am currently pursuing my **Bachelor of Technology in Computer Science Engineer
 - A repository containing **scripts and queries** related to **MySQL database management**.
 - Showcases my skills in working with **databases**.
 
-### 🔹 Awesome GitHub Profile README
-- A **community-driven collection** of awesome GitHub profile READMEs.
-- Useful resource for developers looking to **create an impressive README**.
+### 🔹 Swiggy Restaurant Data Dashboard
+- Performed **data scraping** of restaurant data in Bhopal from Swiggy.
+- Transformed and cleaned data using **Excel**.
+- Created **interactive visualizations** using **Power BI**.
+- Validated data by creating **MySQL views**.
+
+### 🔹 Customer Churn Prediction
+- Built **Customer Churn Prediction** model using **Python, Machine Learning, Flask, Power BI, and MySQL**.
+- Performed **EDA, Data Preprocessing, and Model Training**.
+- Deployed the model using **Flask**.
+- Created **interactive dashboards** in **Power BI** for insights.
+
+### 🔹 E-commerce Data Analysis
+- Conducted **EDA, Data Cleaning, and Data Visualization**.
+- Performed **Sales Analysis and Customer Segmentation**.
+- Utilized **Python libraries like Pandas, Matplotlib, Seaborn, and Plotly**.
+- Delivered insights for better **business decision-making**.
 
 ---
 
@@ -77,10 +91,6 @@ I am currently pursuing my **Bachelor of Technology in Computer Science Engineer
 
 ## 📩 Contact Me
 
-- **📧 Email**: [alwaysramesh@gmail.com](mailto:alwaysramesh@gmail.com)
+- **📧 Email**: [viprameshkumar8085@gmail.com](mailto:viprameshkumar8085@gmail.com)
 - **💼 LinkedIn**: [Ramesh Kumar Prajapati](https://www.linkedin.com/in/your-link-here)
 - **🐙 GitHub**: [alwaysramesh](https://github.com/alwaysramesh)
-
----
-
-> **Thank you for visiting my profile! I look forward to connecting with you! 🌟**
