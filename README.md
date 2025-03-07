@@ -1,12 +1,12 @@
-# Hi Here, I'm Ramesh Kumar Prajapati! 👋
+# Hi here, I'm Ramesh Kumar Prajapati! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alwaysramesh&label=Profile%20Views&color=blue&style=plastic)
 
 <img align="right" alt="Coder GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## Aspiring Data Scientist || SQL || Python || Excel || C++ || Power BI || Tableau || Microsoft Azure || B.Tech[CSE]
+## Aspiring Data Scientist || SQL || Python || Excel || C++ || Power BI || Tableau ||Machine Learning||B.Tech[CSE]
 
-I am final year pursuing my **Bachelor of Technology in Computer Science Engineering** from **Sagar Institute of Research & Technology**. I am also studying **Data Science at Cybrom Institute**. My passion for technology and data analysis drives me to learn new skills and explore innovative solutions. I have developed proficiency in **Microsoft Azure**, which I use to enhance my projects and assignments. I am eager to apply my knowledge and skills in real-world scenarios and contribute to the growth of organizations.
+I am final year student **Bachelor of Technology in Computer Science Engineering** from **Sagar Institute of Research & Technology**. I am also studying **Data Science at Cybrom Institute**. My passion for technology and data analysis drives me to learn new skills and explore innovative solutions. I have developed proficiency in **Microsoft Azure**, which I use to enhance my projects and assignments. I am eager to apply my knowledge and skills in real-world scenarios and contribute to the growth of organizations.
 
 ---
 
@@ -27,6 +27,14 @@ I am final year pursuing my **Bachelor of Technology in Computer Science Enginee
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0277BD?style=for-the-badge&logo=machine-learning&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -36,23 +44,17 @@ I am final year pursuing my **Bachelor of Technology in Computer Science Enginee
 - A repository containing **scripts and queries** related to **MySQL database management**.
 - Showcases my skills in working with **databases**.
 
-### 🔹 Swiggy Restaurant Data Dashboard
-- Performed **data scraping** of restaurant data in Bhopal from Swiggy.
-- Transformed and cleaned data using **Excel**.
-- Created **interactive visualizations** using **Power BI**.
-- Validated data by creating **MySQL views**.
+### 🔹 Awesome GitHub Profile README
+- A **community-driven collection** of awesome GitHub profile READMEs.
+- Useful resource for developers looking to **create an impressive README**.
+
+### 🔹 Swiggy Restaurant Data Analysis
+- Analyzed Swiggy restaurant data in Bhopal.
+- Scraped data, transformed it using Excel, visualized it in Power BI, and validated it by creating MySQL views.
 
 ### 🔹 Customer Churn Prediction
-- Built **Customer Churn Prediction** model using **Python, Machine Learning, Flask, Power BI, and MySQL**.
-- Performed **EDA, Data Preprocessing, and Model Training**.
-- Deployed the model using **Flask**.
-- Created **interactive dashboards** in **Power BI** for insights.
-
-### 🔹 E-commerce Data Analysis
-- Conducted **EDA, Data Cleaning, and Data Visualization**.
-- Performed **Sales Analysis and Customer Segmentation**.
-- Utilized **Python libraries like Pandas, Matplotlib, Seaborn, and Plotly**.
-- Delivered insights for better **business decision-making**.
+- Machine Learning project to predict customer churn.
+- Technologies: Python, Flask, MySQL, Power BI.
 
 ---
 
@@ -91,6 +93,6 @@ I am final year pursuing my **Bachelor of Technology in Computer Science Enginee
 
 ## 📩 Contact Me
 
-- **📧 Email**: [viprameshkumar8085@gmail.com](mailto:viprameshkumar8085@gmail.com)
+- **📧 Email**: [viprameshkumar8085@gmail.com](viprameshkumar8085@gmail.com)
 - **💼 LinkedIn**: [Ramesh Kumar Prajapati](https://www.linkedin.com/in/your-link-here)
 - **🐙 GitHub**: [alwaysramesh](https://github.com/alwaysramesh)
