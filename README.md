@@ -4,9 +4,9 @@
 
 <img align="right" alt="Coder GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## Aspiring Data Scientist || SQL || Python || Excel || C++ || Power BI || Tableau ||Machine Learning||B.Tech[CSE]
+## Aspiring Data Scientist || SQL || Python || Excel || C++ || Power BI || Tableau || Machine Learning || B.Tech [CSE]
 
-I am final year student **Bachelor of Technology in Computer Science Engineering** from **Sagar Institute of Research & Technology**. My passion for technology and data analysis drives me to learn new skills and explore innovative solutions. I have developed proficiency in **Microsoft Azure**, which I use to enhance my projects and assignments. I am eager to apply my knowledge and skills in real-world scenarios and contribute to the growth of organizations.
+I am a final year student of **Bachelor of Technology in Computer Science Engineering** from **Sagar Institute of Research & Technology**. My passion for technology and data analysis drives me to learn new skills and explore innovative solutions. I have developed proficiency in **Microsoft Azure**, which I use to enhance my projects and assignments. I am eager to apply my knowledge and skills in real-world scenarios and contribute to the growth of organizations.
 
 ---
 
@@ -44,10 +44,6 @@ I am final year student **Bachelor of Technology in Computer Science Engineering
 - A repository containing **scripts and queries** related to **MySQL database management**.
 - Showcases my skills in working with **databases**.
 
-### 🔹 Awesome GitHub Profile README
-- A **community-driven collection** of awesome GitHub profile READMEs.
-- Useful resource for developers looking to **create an impressive README**.
-
 ### 🔹 Swiggy Restaurant Data Analysis
 - Analyzed Swiggy restaurant data in Bhopal.
 - Scraped data, transformed it using Excel, visualized it in Power BI, and validated it by creating MySQL views.
@@ -55,6 +51,17 @@ I am final year student **Bachelor of Technology in Computer Science Engineering
 ### 🔹 Customer Churn Prediction
 - Machine Learning project to predict customer churn.
 - Technologies: Python, Flask, MySQL, Power BI.
+
+### 🔹 Fake News Prediction System
+- Built a **Fake News Classifier** using **Naive Bayes and Decision Tree algorithms**.
+- Preprocessing with **CountVectorizer**, implemented in Jupyter Notebook.
+- Enhanced with clean visualizations and insights into model performance.
+
+### 🔹 Voice-Enabled Chatbot using Flask & Machine Learning
+- Developed a **smart, user-friendly chatbot** that supports both **voice and text inputs**.
+- Integrated with **TF-IDF & cosine similarity** to understand and respond intelligently.
+- Backend: Python + Flask | Frontend: HTML, CSS | Data Storage: SQLite
+- Features **reinforcement learning**, so the bot learns from user input when it doesn’t know the answer.
 
 ---
 
@@ -93,6 +100,6 @@ I am final year student **Bachelor of Technology in Computer Science Engineering
 
 ## 📩 Contact Me
 
-- **📧 Email**: [viprameshkumar8085@gmail.com](viprameshkumar8085@gmail.com)
+- **📧 Email**: [viprameshkumar8085@gmail.com](mailto:viprameshkumar8085@gmail.com)
 - **💼 LinkedIn**: [Ramesh Kumar Prajapati](https://www.linkedin.com/in/your-link-here)
 - **🐙 GitHub**: [alwaysramesh](https://github.com/alwaysramesh)
