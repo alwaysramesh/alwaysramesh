@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coder GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## Aspiring Data Scientist || SQL || Python || Excel || C++ || Power BI || Tableau || Machine Learning || B.Tech [CSE]
+## AI Engineer || SQL || Python || Excel || C++ || Power BI || Tableau || Machine Learning || B.Tech [CSE]
 
 I am a final year student of **Bachelor of Technology in Computer Science Engineering** from **Sagar Institute of Research & Technology**. My passion for technology and data analysis drives me to learn new skills and explore innovative solutions. I have developed proficiency in **Microsoft Azure**, which I use to enhance my projects and assignments. I am eager to apply my knowledge and skills in real-world scenarios and contribute to the growth of organizations.
 
